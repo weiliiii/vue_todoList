@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+.top_tit {
+    margin: 5% 0 25px 0;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.center-set {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    align-items: stretch;
+}
+.w25 {
+    width: 25%;
+}
+.list_all_show {
+    width: 35%;
+    margin: 40px auto 0;
+}
+.bt-line {
+    border-bottom: 1px solid #dadfe3 !important;
+}
+.del_btn {
+    background-color: #212529;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+.computed {
+    text-decoration-line: line-through;
+    color: #7c7c7c;
+}
